@@ -14,13 +14,13 @@ Zde se buildí docker file, který jsem nastavil.
 
 ## Docker run
 
-Zde spouštím docker file a specifikuju port 
+Zde spouštím docker file a specifikuju port. 
 
 ![docker run](https://github.com/Blikyy/docker/blob/main/images/docker-run.png)
 
 ## Docker container
 
-Zde jsou vidět informace ohledně mého containeru
+Zde jsou vidět informace ohledně mého containeru.
 
 ![docker container](https://github.com/Blikyy/docker/blob/main/images/docker-container.png)
 

@@ -8,7 +8,7 @@ Docker file, ve kterém se nastavuje co bude dělat.
 
 ## Docker build
 
-Zde se buildí docker file, který jsem nastavil.
+Zde se zbuildí docker file, který jsem nastavil.
 
 ![docker build](https://github.com/Blikyy/docker/blob/main/images/docker-build.png)
 
